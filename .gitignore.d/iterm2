@@ -1,0 +1,5 @@
+*
+!/.iterm2
+!/.iterm2/com.googlecode.iterm2.plist
+!/.gitignore.d
+!/.gitignore.d/iterm2
